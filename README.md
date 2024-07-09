@@ -12,7 +12,7 @@
 • <a href="https://seaborn.pydata.org/installing.html">seaborn 0.13.2</a><br/> 
 • <a href="https://pypi.org/project/plotly-express/">plotly.express 5.22.0</a>
 
-(Lista completa no arquivo requirements.txt)
+Lista completa no arquivo <a href="https://github.com/adiosCarla/desafio-cientista-de-dados/blob/main/requirements.txt">requirements.txt</a>
 
 # Desafio
 Você foi alocado em um time da Indicium contratado por um estúdio de
